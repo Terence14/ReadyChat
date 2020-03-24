@@ -1,0 +1,20 @@
+{
+  "name": "readychat",
+  "version": "1.0.0",
+  "description": "//I created this build with the idesa of a MVP to build on top of that UI is vary basic// ![Image description](https://github.com/Terence14/ReadyChat/blob/master/mongochat/Images/Readychat%201st%20ui.PNG) Chatting Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terence14/ReadyChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terence14/ReadyChat/issues"
+  },
+  "homepage": "https://github.com/Terence14/ReadyChat#readme"
+}
